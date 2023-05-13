@@ -1,2 +1,2 @@
 # Lab6_PIS
-https://Lab6_PIS/Weather/index.html
+https://github.com/KyrylloTereshchuk/Lab6_PIS/blob/main/Weather/index.html
